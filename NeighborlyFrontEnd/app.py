@@ -137,3 +137,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# az cosmosdb create --name olusoladeboy --resource-group serverless-functions --subscription 522fc410-82d5-41a5-832d-a42f6119f142
