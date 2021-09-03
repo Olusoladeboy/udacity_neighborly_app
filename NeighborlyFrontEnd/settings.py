@@ -1,5 +1,6 @@
 #--------- Flask settings
-SERVER_HOST = '0.0.0.0' # Update this for the appropriate front-end website when up
+SERVER_HOST = 'localhost' # Update this for the appropriate front-end website when up
+# SERVER_HOST = '0.0.0.0' # Update this for the appropriate front-end website when up
 SERVER_PORT = 8000
 FLASK_DEBUG = False # Do not use debug mode in prod
 
@@ -16,4 +17,4 @@ API_VERSION = 'v1'
 #API_URL = " https://neighborlyapi.azurewebsites.net/api/"
 
 # for local host if Azure functions served locally
-API_URL = "https://olusoladeboy-neigborly-app.azurewebsites.net/api/"
+API_URL = "https://solaudacity.azurewebsites.net/api/"

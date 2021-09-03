@@ -6,7 +6,7 @@
       "name": "event",
       "direction": "in",
 	  "eventHubName": "neighbourly", 
-	  "connection": "Endpoint=sb://neighbourly.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=oJxfhmFncmNLtAqiCgP4PVOJzGGVKt2lec1DmkpSbVc="
+	  "connection": "Endpoint=sb://solaudacityhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=/pl2cl08O8LcqcSc+vIlyxiJsHZmR6MJBEOy5+cf228="
     }
   ]
 }
